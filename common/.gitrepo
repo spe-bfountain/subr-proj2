@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/spe-bfountain/subr-common.git
+	branch = master
+	commit = 3148ecbefb415408b2e2079f4c4d2f3d7519456e
+	parent = aa9d8e48f9537dd83ecc7aad386cb63aea06f7f1
+	method = merge
+	cmdver = 0.4.0
